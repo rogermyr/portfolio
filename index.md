@@ -9,6 +9,10 @@ Desde o mês de Novembro/2019 tenho começado minha trilha de estudos na área d
 
 ##### Projeto 1 - Recomendação de Filmes
 
+Projeto que analisa as notas dadas por cada usuário ( utilizado os datasets movies e ratings ) e, baseado nisso, tenta encontrar outros usuários com o mesmo perfil para que seja indicado filmes que não foram vistos ainda.
+Como resultado são apresentados 20 recomendações de filmes e suas respectivas capas.
+Projeto desenvolvido utilizando Python e as bibliotecas Flask e scikit-surprise.
+
 [Demonstração](https://roger-recosystem.herokuapp.com/) | [Código Fonte](https://github.com/rogermyr/Recomendacao-Deploy) | [Desenvolvimento do Projeto](https://github.com/rogermyr/Recomendacao/blob/master/Movie%20Recommender%20System.ipynb)
 
 ##### Projeto 2 - Calculadora de Aluguel ( Santos/SP )
