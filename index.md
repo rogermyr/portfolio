@@ -2,7 +2,10 @@
 
 Seja bem vindo ao meu portfolio.
 
-Aqui você encontrará todos os meus projetos e estudos desenvolvidos (e em desenvolvimento ainda ) durante meu aprendizado em Data Science.
+Aqui você encontrará todos os meus projetos e estudos desenvolvidos ( e em desenvolvimento ainda ) durante meu aprendizado em Data Science.
+
+Sou da cidade de Praia Grande ( litoral de São Paulo ) e formado em Engenharia de Telemática pela Universidade Santa Cecília ( UNISANTA ). 
+Atuo há 12 anos na área de Infraestrutura, coordenando a equipe de Help Desk e administrando a área de Telecomunicações ( Telefonia Fixa, Móvel, VPNs, Rede Ethernet e Servidores ).
 
 * Projeto 1 - Recomendação de Filmes
 
@@ -16,4 +19,4 @@ Aqui você encontrará todos os meus projetos e estudos desenvolvidos (e em dese
 
 [Código Fonte](https://github.com/rogermyr/aluguel_santos)
 
-* Análise sobre a progressão do Coronavirus na Baixada Santista
+
