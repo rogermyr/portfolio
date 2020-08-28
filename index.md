@@ -9,7 +9,7 @@ Desde o mês de Novembro/2019 tenho começado minha trilha na área de Data Scie
 
 ##### Projeto 1 - Recomendação de Filmes
 
-[Demonstração](https://roger-recosystem.herokuapp.com/) | [Código Fonte](https://github.com/rogermyr/Recomendacao-Deploy)
+[Demonstração](https://roger-recosystem.herokuapp.com/) | [Código Fonte](https://github.com/rogermyr/Recomendacao-Deploy) | [Desenvolvimento do Projeto](https://github.com/rogermyr/Recomendacao/blob/master/Movie%20Recommender%20System.ipynb)
 
 ##### Projeto 2 - Calculadora de Aluguel ( Santos/SP )
 
