@@ -1,5 +1,3 @@
-## Olá,
-
 Seja bem vindo ao meu portfolio.
 
 Sou da cidade de Praia Grande ( litoral de São Paulo ) e formado em Engenharia de Telemática pela Universidade Santa Cecília ( UNISANTA ). 
