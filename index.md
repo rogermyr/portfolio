@@ -1,7 +1,8 @@
 Seja bem vindo ao meu portfolio.
 
 Sou da cidade de Praia Grande ( litoral de São Paulo ) e formado em Engenharia de Telemática pela Universidade Santa Cecília ( UNISANTA ). 
-Atuo há 12 anos na área de Infraestrutura, coordenando a equipe de Help Desk e administrando a área de Telecomunicações ( Telefonia Fixa, Móvel, VPNs, Rede Ethernet e Servidores ).
+Atualmente estou cursando o MBA em Data Science & Analytics da USP/ESALQ, com previsão de término em agosto/2023.
+Trabalho há 14 anos na área de Infraestrutura, coordenando equipe e administrando a área de Telecomunicações ( Telefonia Fixa, Móvel, VPNs, Rede Ethernet e Servidores ).
 
 Desde o mês de Novembro/2019 tenho começado minha trilha de estudos na área de Data Science, e aqui você encontrará todos os meus projetos e estudos desenvolvidos ( e em desenvolvimento ainda ) durante o meu aprendizado.
 
